@@ -1,2 +1,2 @@
 # Machine_Learning
-Homeworks for Machine Learnine online course from Standford
+Homeworks for the Machine Learning online course from Standford
